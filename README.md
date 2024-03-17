@@ -18,7 +18,7 @@
 
 ---
 
-Hello and welcome to my GitHub profile! My name is Ayotomide Babalola(czar) and I am a Flutter developer and open source enthusiast.
+<!--Hello and welcome to my GitHub profile! My name is Ayotomide Babalola(czar) and I am a Flutter developer and open source enthusiast.
 
 I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
 
@@ -26,7 +26,7 @@ In my projects, you'll find a range of Flutter apps and libraries that showcase 
 
 If you have any questions or just want to chat about Flutter and open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>-->
 
 <!--[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayotomideb) [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/czarify) [![](https://img.shields.io/badge/youtube-12100E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO_ydm-DWmWzxNY9-QecpOg) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/czarfy)-->
 
