@@ -76,13 +76,13 @@ Checkout My Project Section, you'll find beautifully designed user interfaces, I
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/HorlahTech/HorlahTech/blob/main/Screenrecorder-2024-03-18-14-51-42-257-ezgif.com-video-to-gif-converter%20(2).gif" alt="Tour booking Ui"></img>
+				<img width="35%" src="https://github.com/HorlahTech/HorlahTech/blob/main/Screenrecorder-2024-03-18-14-51-42-257-ezgif.com-video-to-gif-converter%20(2).gif" alt="Tour booking Ui"></img>
 			</td>
 			<td>
-			<img src="https://github.com/HorlahTech/HorlahTech/blob/main/Screenrecorder-2024-03-15-16-05-13-142-ezgif.com-video-to-gif-converter.gif" alt="Custom loading Animation"></img>
+			<img width="35%"  src="https://github.com/HorlahTech/HorlahTech/blob/main/Screenrecorder-2024-03-15-16-05-13-142-ezgif.com-video-to-gif-converter.gif" alt="Custom loading Animation"></img>
 			</td>
 						<td>
-			<img src="https://github.com/HorlahTech/HorlahTech/blob/main/Screenrecorder-2024-03-18-15-39-19-533-ezgif.com-video-to-gif-converter.gif" alt="Map UI"></img>
+			<img width="35%"  src="https://github.com/HorlahTech/HorlahTech/blob/main/Screenrecorder-2024-03-18-15-39-19-533-ezgif.com-video-to-gif-converter.gif" alt="Map UI"></img>
 			</td>
 		</tr>
 		<!--<tr>
