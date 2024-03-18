@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HorlahTech&theme=onedark" alt="HorlahTech" /></a> </p>
 
-<!--<p align="left"> <a href="https://twitter.com/Flutter_Neyo" target="blank"><img src="https://img.shields.io/twitter/follow/czarify?logo=twitter&style=for-the-badge" alt="czarify" /></a> </p>-->
+ align="left"> <a href="https://twitter.com/Flutter_Neyo" target="blank"><img src="https://img.shields.io/twitter/follow/Flutter_Neyo?logo=twitter&style=for-the-badge" alt="Flutter_Neyo" /></a> 
 
 ---
 
@@ -18,17 +18,20 @@
 
 ---
 
-<!--Hello and welcome to my GitHub profile! My name is Ayotomide Babalola(czar) and I am a Flutter developer and open source enthusiast.
 
-I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
+Hi there,welcome to my GitHub profile!. <br>
+I'm Olayiwola Lukman, a passionate Flutter developer building beautiful and user-friendly mobile applications. I'm constantly striving to improve my skills and learn new technologies to create innovative apps that solve real-world problems.
 
-In my projects, you'll find a range of Flutter apps and libraries that showcase my skills and interests. From utility tools to beautifully designed user interfaces, I am constantly pushing myself to learn and create new things with Flutter.
+I have extensive knowledge and passion for crafting beautiful and performant mobile applications. With a keen eye for design and a love for clean, maintainable code, I thrive on creating delightful user experiences that make a difference.
 
-If you have any questions or just want to chat about Flutter and open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
+Checkout My Project Section, you'll find beautifully designed user interfaces, I am constantly pushing myself to learn and create new things with Flutter.
 
-<h3 align="left">Connect with me:</h3>-->
+<!--If you have any questions or just want to chat about Flutter and open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.-->
 
-<!--[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayotomideb) [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/czarify) [![](https://img.shields.io/badge/youtube-12100E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO_ydm-DWmWzxNY9-QecpOg) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/czarfy)-->
+<h3 align="left">Connect with me:</h3>
+
+[![](https://img.shields.io/badge/linkedin-12100E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukman-olayiwola-097584234) [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Flutter_Neyo) 
+<!--[![](https://img.shields.io/badge/youtube-12100E?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO_ydm-DWmWzxNY9-QecpOg) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/czarfy)-->
 
 ---
 
